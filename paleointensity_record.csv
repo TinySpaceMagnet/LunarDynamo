@@ -1,37 +1,40 @@
-Sample,Age,AgeSD,Pint,PintSD,Lithology,LithCode,TiO2
+Sample,Age,AgeSD,Pint,PintSD,Lithology,LithCode,TiO2,K2O,MgO,Sm,Nd
 15498,1470,450,5,2,Regolith breccia,1,
-12008,3167,18,0,7,olivine vitrophyre basalt,2,4.82
-12009,3167,18,0,7,olivine vitrophyre basalt,2,3.3
-12015,3167,18,0,4,olivine vitrophyre basalt,2,3.2
-12040,3167,18,0,0,olivine-bearing basalt,2,2.6
-12017,3176,6,0,37,pigeonite-bearing basalt,2,3.4
-12021,3176,6,0,0,pigeonite-bearing basalt,2,4.17
-12053,3176,6,0,0,pigeonite-bearing basalt,2,3.5
-12022,3187,11,0,4,ilmenite-bearing basalt,2,5.16
-15016,3285,9,0,37,ol-normative basalt,2,3
-15556,3285,9,0,75,ol-normative basalt,2,2.76
-15597,3357,7,0,7,qz-normative basalt,2,1.87
+CE5,1963,57,3,1,basalt,2
+CE6,2805,4,13,8,basalt,2
+12008,3167,18,0,7,olivine vitrophyre basalt,2,4.82,0.14,12.33,5.14,13.9
+12009,3167,18,0,7,olivine vitrophyre basalt,2,3.3,0.064,12.5,4.53,16
+12015,3167,18,0,4,olivine vitrophyre basalt,2,3.2,0.062,14,4.77,16.1
+12040,3167,18,0,20,olivine-bearing basalt,2,2.6
+12017,3176,6,0,37,pigeonite-bearing basalt,2,3.4,0.07,8.7,4.8,13.2
+12021,3176,6,0,20,pigeonite-bearing basalt,2,4.17,0.08,7.6,5.68,16
+12053,3176,6,0,20,pigeonite-bearing basalt,2,3.5,0.07,8.17,5.9,19
+12022,3187,11,0,4,ilmenite-bearing basalt,2,5.16,0.07,13,6.4,19
+15016,3285,9,0,37,ol-normative basalt,2,3,0.05,11.65,3.6,9.6
+15556,3285,9,0,75,ol-normative basalt,2,2.76,0.09,8.67,4,13
+15597,3357,7,0,7,qz-normative basalt,2,1.87,0.08,9.18,3.09,9.3
 60015,3500,50,0,5,Cataclastic anorthosite,3,
-10071,3580,9,11,3,High K ilmenite basalt (Group A),2,11.9
-10017,3580,9,69,16,"High Ti, Group A basalt",2,11.8
-10049,3580,9,69,16,"High Ti, Group A basalt",2,11.5
-10069,3580,9,61,26,High K ilmenite basalt (Group A),2,12.75
-71055,3640,90,0,0,vesicular ilmenite basalt,2,14.51
-10020,3747,3,66,37,"High Ti, Group B3 basalt",2,10.7
-74275,3753,5,28,84,"High Ti, Group C basalt",2,13.1
-70035,3754,6,0,0,"High Ti, Group A basalt",2,13
-71567,3754,6,111,333,"High Ti, Group A basalt",2,12.98
-75035,3754,6,51,14,"High Ti, Group A basalt",2,9.98
-75055,3754,6,57,17,"High Ti, Group A basalt",2,11.41
-70017,3764,12,42,126,"High Ti, Group B basalt",2,13.75
-70215,3764,12,95,0,"High Ti, Group B2 basalt",2,13.2
-71505,3764,12,95,285,"High Ti, Group B basalt",2,10.5
-10003,3854,8,54,5,"High Ti, Group B2 basalt",2,12
+10071,3580,9,11,3,High K ilmenite basalt (Group A),2,11.9,0.44,7.7,22.7,64.5
+10017,3580,9,69,16,"High Ti, Group A basalt",2,11.8,0.31,8.5,20.9,59.5
+10049,3580,9,69,16,"High Ti, Group A basalt",2,11.5,0.36,7.54,22.5,64.3
+10069,3580,9,61,26,High K ilmenite basalt (Group A),2,12.75,0.29,8.34,23,67
+71055,3640,90,0,20,vesicular ilmenite basalt,2,14.51,0.06,10.44,7.05,33
+10020,3747,3,66,37,"High Ti, Group B3 basalt",2,10.7,0.07,8,9.94,31
+74275,3753,5,28,84,"High Ti, Group C basalt",2,13.1,0.1,10.8,9.76,22.8
+70035,3754,6,0,20,"High Ti, Group A basalt",2,13,0.06,9.89,10.5,25.9
+71567,3754,6,111,333,"High Ti, Group A basalt",2,12.98,0.07,8.83,10.9
+75035,3754,6,51,14,"High Ti, Group A basalt",2,9.98,0.084,7,13.6,36.5
+75055,3754,6,57,17,"High Ti, Group A basalt",2,11.41,0.09,7.26,2.39,11.3
+70017,3764,12,42,126,"High Ti, Group B basalt",2,13.75,0.07,11.95,7.53,20
+70215,3764,12,95,0,"High Ti, Group B2 basalt",2,13.2,0.08,9.34,6.98,22
+71505,3764,12,95,285,"High Ti, Group B basalt",2,10.5,0.048,7,7.8,22
+10003,3854,8,54,5,"High Ti, Group B2 basalt",2,12,0.06,8.1,14.8,40
 62295,3866,12,0,0,Impact melt breccia,1,
 68815,3875,245,0,0,Polymict breccia,1,
 62235,3876,32,0,2.9,Impact melt breccia,1,
 72215,3925,95,0,1.8,Melt breccia,1,
-14053,3955,8,0,0,"Low Ti, Group C basalt - experienced post-eruption thermal metamorphism (Neal et al., 2015)",2,2.91
+14053,3955,8,0,20,"Low Ti, Group C basalt",2,2.91
+61016,3970,250,0,20,"Dimict breccia",1
 60215,4100,200,0,0,Cataclastic anorthosite,3,
 65315,4100,200,0,0,Cataclastic anorthosite,3,
 76535,4236,15,30,10,Troctolite,4,0.05
